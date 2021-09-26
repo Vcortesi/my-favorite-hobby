@@ -2,7 +2,9 @@
     text-align:center;
 }
 body{
+    color:white;
     background-color:navajowhite;
+    background-image:url("images/back.png") ;
     padding-bottom:1000px
 }
 h1{
